@@ -10,4 +10,4 @@
  
  #mostra_repetidos
  
-Algoritmo deveria mostrar o número de diagramas presentes em sequência de caracteres. Não consegui colocar em código. Tentativa efetuada em linguagem Python.
+Algoritmo mostrar o número de diagramas presentes em sequência de caracteres. Feitoem linguagem Python.
